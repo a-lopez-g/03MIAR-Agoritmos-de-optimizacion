@@ -1,1 +1,3 @@
-# 03MIAR-Agoritmos-de-optimizacion
+# Algoritmos-de-optimizacion
+
+Resolución de problemas de optimización.
